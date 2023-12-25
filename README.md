@@ -1,2 +1,8 @@
-# Zichuan-Experimental-Middle-School-Exercise-Questions
-淄川实验中学信息技术网站课堂练习题-Classroom exercises on the information technology website of Zichuan Experimental High School
+# 淄川实验中学信息技术网站课堂练习题
+## 介绍
+Hi，各位校友！出于我的善良（）和移动部署代码的要求，我创建了这个仓库。<br>
+本仓库用于共享我做过的练习题的答案，供大家借鉴和使用<br>
+同时，欢迎通过QQ联系我或提交PR来补充题目<br>
+QQ:3012287203<br>
+## 目前题库
+目前仅包含C++的题库，详细请进入C++目录查看
